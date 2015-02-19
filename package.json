@@ -1,0 +1,11 @@
+{
+  "name": "gulp-jsx",
+  "version": "1.0.0",
+  "description": "gulpfile.js for reactify.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "script"
+  },
+  "author": "Fernando Soares",
+  "license": "ISC"
+}
