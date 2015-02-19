@@ -6,6 +6,16 @@
   "scripts": {
     "test": "script"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ferspeak/gulp-jsx"
+  },
   "author": "Fernando Soares",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^8.1.3",
+    "gulp": "^3.8.11",
+    "reactify": "^1.0.0",
+    "vinyl-source-stream": "^1.0.0"
+  }
 }
